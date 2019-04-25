@@ -9,9 +9,9 @@ import platform
 
 # XXX: make sure no no ascii chars in the path name.
 
-AWTK_ROOT_DIR = '../awtk';
+AWTK_ROOT_DIR = 'C:\Users\wangp\Desktop\awtk\awtk-aworks-rt1052-master';
 PORT_ROOT_DIR = os.getcwd();
-DST_ROOT_DIR = './output';
+DST_ROOT_DIR = 'C:\Users\wangp\Desktop\awtk\aworks_m105x_sdk_1.0.4-alpha\projects\img_rt1050_debug';
 NANOVG_BACKEND = 'AGGE'
 
 
